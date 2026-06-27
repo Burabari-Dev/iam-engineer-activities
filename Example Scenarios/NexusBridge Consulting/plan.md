@@ -3,7 +3,7 @@
 ## Portfolio Structure
 
 ```
-(IAM_Engineer_Role/)
+(Example Scenarios/NexusBridge Consulting/)
 ├── README.md
 ├── 00-company-context/
 │   ├── company-profile.md
