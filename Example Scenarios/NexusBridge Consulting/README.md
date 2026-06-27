@@ -14,4 +14,3 @@ Portfolio project demonstrating real-world IAM engineering scenarios for a ficti
 06-incident-response/ — IAM incident response playbooks
 ```
 
-See `plan.md` for the full execution plan.
