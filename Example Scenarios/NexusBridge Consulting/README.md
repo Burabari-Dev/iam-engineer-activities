@@ -14,4 +14,4 @@ Portfolio project demonstrating real-world IAM engineering scenarios for a ficti
 06-incident-response/ — IAM incident response playbooks
 ```
 
-See `Example Scenarios/NexusBridge Consulting/plan.md` for the full execution plan.
+See `plan.md` for the full execution plan.
