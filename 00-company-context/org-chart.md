@@ -1,0 +1,62 @@
+# NexusBridge Consulting — Organisational Chart
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                         C-Suite                                 │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐                     │
+│  │   CEO    │  │   CTO    │  │   CFO    │                     │
+│  └────┬─────┘  └────┬─────┘  └────┬─────┘                     │
+└───────┼──────────────┼──────────────┼───────────────────────────┘
+        │              │              │
+        │     ┌────────┘              │
+        │     │                       │
+┌───────┴──────────┐    ┌────────────┴──────────┐
+│  VP Engineering  │    │   CISO                │
+│  (1 head)        │    │   (1 head)            │
+└───────┬──────────┘    └───────┬───────────────┘
+        │                       │
+   ┌────┼────┐            ┌─────┼──────┐
+   │    │    │            │     │      │
+┌──┴┐ ┌─┴─┐ ┌┴──┐   ┌───┴┐ ┌──┴──┐ ┌─┴────┐
+│Mgr│ │Mgr│ │Mgr│   │Mgr │ │Mgr  │ │Mgr   │
+│Plt│ │App│ │QA │   │IAM │ │SOC  │ │IT    │
+│Eng│ │Dev│ │&  │   │    │ │     │ │Suppt │
+└───┘ └───┘ └───┘   └────┘ └─────┘ └──────┘
+
+┌─────────────────────────────────────┐
+│        Other Departments            │
+│  ┌────┐ ┌──────┐ ┌─────┐ ┌──────┐ │
+│  │ HR │ │Finance││Legal│ │Sales │ │
+│  │    │ │       ││     │ │& Mktg│ │
+│  └────┘ └──────┘ └─────┘ └──────┘ │
+└─────────────────────────────────────┘
+```
+
+## Department Breakdown
+
+### C-Suite
+- **CEO** — oversees company strategy
+- **CTO** — technology vision, engineering direction
+- **CFO** — financial governance, budgeting
+
+### Engineering (VP Engineering)
+| Team | Manager | Headcount | Focus |
+|------|---------|-----------|-------|
+| Platform Engineering | Manager, Platform | 15 | DevOps, AWS infrastructure, Terraform, CI/CD |
+| Application Development | Manager, App Dev | 35 | Client-facing app development, internal tools |
+| QA & Testing | Manager, QA | 10 | Manual and automated testing |
+
+### IT & Security (CISO)
+| Team | Manager | Headcount | Focus |
+|------|---------|-----------|-------|
+| IAM | Manager, IAM | 4 | Identity lifecycle, access governance, federation |
+| Security Operations | Manager, SOC | 6 | Threat detection, incident response, SIEM |
+| IT Support / Helpdesk | Manager, IT | 5 | Endpoint management, user support, onboarding |
+
+### Other Departments
+| Department | Head | Headcount |
+|------------|------|-----------|
+| HR | HR Director | 4 |
+| Finance | Finance Director | 5 |
+| Legal | Legal Counsel | 2 |
+| Sales & Marketing | VP Sales | 15 |
