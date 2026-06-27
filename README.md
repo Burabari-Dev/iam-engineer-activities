@@ -1,15 +1,16 @@
-# IAM Engineer — Preparation & Portfolio
+# IAM Engineering Portfolio
 
-This project contains two things:
+A hands-on portfolio demonstrating real-world IAM engineering through a fictional company (NexusBridge Consulting).
 
-1. **Job search resources** — common IAM Engineer requirements, target skills, UK job boards, and AWS Security Specialty cert notes.
-2. **IAM Engineering Portfolio** — a fictional company (NexusBridge Consulting) with real-world IAM scenarios demonstrating identity lifecycle, access governance, RBAC, federation, secrets management, and incident response.
+## Scenarios
 
-## Structure
+| # | Scenario |
+|---|----------|
+| 1 | User lifecycle (joiner/mover/leaver) |
+| 2 | Access certification / recertification |
+| 3 | RBAC design & implementation |
+| 4 | Federation / SSO setup |
+| 5 | Secrets rotation |
+| 6 | IAM incident response |
 
-| Path | Description |
-|------|-------------|
-| `job_requirements.md` | Common IAM Engineer job specs, skills, certifications, salary bands |
-| `skills.md` | Job search keywords, UK sites, target locations |
-| `aws_security_specialty_cert.md` | AWS SCS-C02 exam notes (IAM-focused) |
-| `Example Scenarios/` | Portfolio project — see `Example Scenarios/NexusBridge Consulting/README.md` |
+See `Example Scenarios/NexusBridge Consulting/README.md` for the full portfolio structure.
